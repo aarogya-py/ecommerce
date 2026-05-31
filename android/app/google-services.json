@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23678658826",
+    "project_id": "aarogya-12b89",
+    "storage_bucket": "aarogya-12b89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23678658826:android:dfae8e8be0e972ea2bb2f3",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaRDYcnTPyFK3WgOi2NlSrprwEGrRKWic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23678658826:android:32a1c60eb799ab402bb2f3",
+        "android_client_info": {
+          "package_name": "com.example.flutterr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaRDYcnTPyFK3WgOi2NlSrprwEGrRKWic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
